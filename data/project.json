@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "rnprado-br",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232571529?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "rnprado-br",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-09-16T11:25:59.401Z",
-    "updated_at": "2025-09-16T11:25:59.401Z"
-  }
+    "updated_at": "2025-09-16T11:25:59.401Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4903edbb-e3d2-45c8-bc8d-c34eae78e321": {
+      "content": [],
+      "created_at": "2025-09-16T11:25:59.424Z",
+      "created_by": "rnprado-br",
+      "title": "Videorrelatos",
+      "updated_at": "2025-09-16T11:25:59.424Z",
+      "updated_by": "rnprado-br",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4903edbb-e3d2-45c8-bc8d-c34eae78e321"
+  ]
 }
